@@ -27,4 +27,4 @@ elif jogador_2 == "Tesoura" and jogador_1 == "Papel":
 else:
     print("Jogada inválida.")
 
-print("-" * 30 )
+print("-" *  30 )
