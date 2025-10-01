@@ -16,3 +16,5 @@ elif operação == "x":
 
 elif operação == "/":
     print(f"A divisão entre os números é ({numero_1/numero_2})")
+else:
+    print("Operação invalida")
