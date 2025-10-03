@@ -17,4 +17,4 @@ for nome in nome_contatos:
     telefone = nome_contatos[nome]
 
 
-    print(f"Nome: {nome} Telefone: {telefone}")
+    print(f"Nome: {nome} | Telefone: {telefone}")
